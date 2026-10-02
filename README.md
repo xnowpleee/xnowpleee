@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xnowpleee/xnowpleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# UJAYY
 
-Here are some ideas to get you started:
+**Personal**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+<img src="./jangndidonlotmmek.jpg" alt="UJAYY banner" width="100%" style="border-radius: 16px;">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ABOUT ME
+Reverse engineering.
+</div>
