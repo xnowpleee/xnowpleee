@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="./jangndidonlotmmek.jpg" alt="UJAYY banner" width="100%" style="border-radius: 16px;">
+<img src="./.github/assets/jangndidonlotmmek.jpg" alt="UJAYY banner" width="100%" style="border-radius: 16px;">
 
 </div>
 
